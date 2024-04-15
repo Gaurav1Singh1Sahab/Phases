@@ -1,1 +1,11 @@
 It was the best of times, It was the worst of times.
+Chapter 3
+MNIST_BASICS
+
+- Things to learn :-
+  1. Roles of arrays,tensors and broadcasting
+  2. Stochastic Gradient Descent :- Mechanism for learning by updating weighs automatically
+  3. Choice of loss of function
+  4. Role of mini-batches
+
+  Start from :- NumPy Arrays and PyTorch Tensors
